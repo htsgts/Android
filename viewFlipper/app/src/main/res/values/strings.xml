@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">viewFlipper</string>
+    <string name="viewStart">사진보기 시작</string>
+    <string name="viewStop">사진보기 중지</string>
+</resources>
