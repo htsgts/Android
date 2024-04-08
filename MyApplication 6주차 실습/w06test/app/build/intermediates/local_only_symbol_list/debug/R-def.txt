@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnEnd
+id btnStart
+id calendarView1
+id chronometer1
+id rdoCal
+id rdoTime
+id timePicker1
+id tvDay
+id tvHour
+id tvMinute
+id tvMonth
+id tvYear
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.W06test
+style Theme.W06test
+xml backup_rules
+xml data_extraction_rules
