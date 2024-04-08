@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">w10t1</string>
+    <string name="button">이건 버튼</string>
+    <string name="button1">오른쪽 위 메뉴 버튼을 누르세요</string>
+    <style name="Base.Theme.W10t1" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.W10t1" parent="Base.Theme.W10t1"/>
+</resources>

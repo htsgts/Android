@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable btn_star_big_on
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_menu_allfriends
+id button1
+id dlgEdt1
+id dlgEdt2
+id imageView1
+id imageView2
+id toastText1
+id tvEmail
+id tvName
+layout activity_main
+layout dialog1
+layout toast1
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.W10t3
+style Theme.W10t3
+xml backup_rules
+xml data_extraction_rules
